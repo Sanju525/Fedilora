@@ -1,0 +1,191 @@
+Computer programming languages are used to to communicate instructions to a computer. They are based on certain syntactic and semantic rules, which define the meaning of each of the programming language constructs.
+
+Programming Languages.
+This webpage gives you the Information about all the Programming Languages Encountered in the research by Fedilora.You can choose as many languages in which your interested, its all depended on the user and capability and ability to learn and memorise the concepts of different Kinds of Programming Languages.
+
+Programming languages are divided into following categories:
+
+1. Functional Programming Languages
+2. Interpreted Programming Languages
+3. Markup Programming Languages
+4. Logic-Based Programming Languages
+5. Concurrent Programming Languages
+6. Compiled Programming Languages
+7. Procedural Programming Languages
+8. Scripting Programming Languages
+9. Object-Oriented Programming Languages
+
+1. Functional Programming Languages:
+
+Functional programming languages define every computation as a mathematical evaluation. They focus on the application of functions. Many of the functional programming languages are bound to mathematical calculations.
+
+- Charity
+- Clean
+- Curry
+- Erlang
+- F#
+- Haskel
+- Joy
+- Kite
+- ML
+- Nemerele
+- OPAL
+- OPS5
+- Q
+
+
+2. Interpreted Programming Languages:
+
+An interpreted language is a programming language for which most of its implementations execute instructions directly, without previously compiling a program into machine-language instructions. The interpreter executes the program directly, translating each statement into a sequence of one or more subroutines already compiled into machine code.
+
+- APL
+- AutoIt
+- BASIC
+- Eiffel
+- Forth
+- Frink
+- Game Maker Language
+- ICI
+- J
+- Lisp
+- Lua
+- M 
+- Pascal
+- PCASTL
+- Perl
+- PostScript
+- Python
+- REXX
+- Ruby
+- S-Lang
+- Spin
+
+
+3. Markup Programming Languages:
+
+A markup language is an artificial language that uses annotations to text that define how the text is to be displayed.
+
+- Curl
+- SGML
+- HTML
+- XML
+- XHTML
+
+
+4. Logic-Based Programming Languages:
+
+Logic programming is a type of programming paradigm which is largely based on formal logic. Any program written in a logic programming language is a set of sentences in logical form, expressing facts and rules about some problem domain.
+
+- ALF
+- Fril
+- Janus
+- Leda
+- Oz
+- Poplog
+- Prolog
+- ROOP
+
+
+5. Concurrent Programming Languages:
+
+Concurrent programming is a computer programming technique that provides for the execution of operations concurrently — either within a single computer, or across a number of systems. In the latter case, the term distributed computing is used.
+
+- ABCL
+- Afnix
+- Cilk
+- Concurrent Pascal
+- E
+- Joule
+- Limbo
+- Pict
+- SALSA
+- SR
+
+
+6. Compiled Programming Languages:
+
+A compiled language is a programming language whose implementations are typically compilers (translators that generate machine code from source code), and not interpreters (step-by-step executors of source code, where no pre-runtime translation takes place).
+
+- Ada
+- ALGOL
+- C
+- C++
+- C#
+- CLEO
+- COBOL
+- Cobra
+- D
+- DASL
+- DIBOL
+- Fortran
+- Java
+- JOVIAL
+- Objective-C
+- SMALL
+- Smalltalk
+- Turing
+- Visual Basic
+- Visual ForPro
+- XL
+
+
+7. Procedural Programming Languages:
+
+Procedural (imperative) programming implies specifying the steps that the programs should take to reach to an intended state. A procedure is a group of statements that can be referenced through a procedure call. Procedures help in the reuse of code. Procedural programming makes the programs structured and easily traceable for program flow.
+
+- Bliss
+- CLIST
+- ChucK
+- HyperTalk
+- Modula-2
+- Oberon
+- ComponentPascal
+- MATLAB
+- Occam
+- PL/C
+- PL/I
+- Rapira
+- RPG
+
+
+8. Scripting Programming Languages:
+
+Scripting languages are programming languages that control an application. Scripts can execute independent of any other application. They are mostly embedded in the application that they control and are used to automate frequently executed tasks like communicating with external programs.
+
+- AppleScript
+- Awk
+- BeanShell
+- ColdFusion
+- F-Script
+- JASS
+- Maya Embedded Language
+- Mondrian
+- PHP
+- Revolution
+- Tcl
+- VBScript
+- Windows PowerShell
+
+
+9. Object-oriented Programming Languages:
+
+Object-oriented programming (OOP) is a programming paradigm based on the concept of “objects”, which may contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods. In OOP, computer programs are designed by making them out of objects that interact with one another.
+
+- Agora
+- BETA
+- Cecil
+- Lava
+- Lisaac
+- MOO
+- Moto
+- Object-Z
+- Obliq
+- Oxygene
+- Pliant
+- Prograph
+- REBOL
+- Scala
+- Self
+- Slate
+- XOTcl
+- IO
